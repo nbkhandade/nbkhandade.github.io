@@ -1,0 +1,992 @@
+[
+    {
+      "FundName": "UNDERTAP",
+      "Ticker": "UNDERTAP",
+      "Month1": 3.85,
+      "Month3": -0.23,
+      "Year": 4.18,
+      "Year3": 9.76,
+      "InceptionDate": "2007-11-07T02:30:57 +05:00"
+    },
+    {
+      "FundName": "JETSILK",
+      "Ticker": "JETSILK",
+      "Month1": 9.26,
+      "Month3": 5.07,
+      "Year": 1.28,
+      "Year3": 9.13,
+      "InceptionDate": "2006-12-28T07:49:53 +05:00"
+    },
+    {
+      "FundName": "MAGNEATO",
+      "Ticker": "MAGNEATO",
+      "Month1": 4.04,
+      "Month3": 4.41,
+      "Year": 3.52,
+      "Year3": 8.61,
+      "InceptionDate": "2014-03-12T07:26:18 +04:00"
+    },
+    {
+      "FundName": "GLOBOIL",
+      "Ticker": "GLOBOIL",
+      "Month1": -6.98,
+      "Month3": 9.77,
+      "Year": 7.36,
+      "Year3": 4.66,
+      "InceptionDate": "2006-08-25T06:16:16 +04:00"
+    },
+    {
+      "FundName": "VIAGREAT",
+      "Ticker": "VIAGREAT",
+      "Month1": 9.86,
+      "Month3": -4.91,
+      "Year": 8.84,
+      "Year3": 7.34,
+      "InceptionDate": "2001-02-17T07:26:07 +05:00"
+    },
+    {
+      "FundName": "OTHERWAY",
+      "Ticker": "OTHERWAY",
+      "Month1": 3.28,
+      "Month3": -1.43,
+      "Year": 9.83,
+      "Year3": 9.43,
+      "InceptionDate": "2003-06-28T06:30:07 +04:00"
+    },
+    {
+      "FundName": "ZEPITOPE",
+      "Ticker": "ZEPITOPE",
+      "Month1": 8.68,
+      "Month3": 2.43,
+      "Year": 2.8,
+      "Year3": 4.12,
+      "InceptionDate": "2020-03-03T07:22:38 +05:00"
+    },
+    {
+      "FundName": "HIVEDOM",
+      "Ticker": "HIVEDOM",
+      "Month1": -1.56,
+      "Month3": -4.89,
+      "Year": 9.9,
+      "Year3": 6.39,
+      "InceptionDate": "2007-01-13T03:26:22 +05:00"
+    },
+    {
+      "FundName": "DEMINIMUM",
+      "Ticker": "DEMINIMUM",
+      "Month1": 3.4,
+      "Month3": -3.9,
+      "Year": 2.2,
+      "Year3": 7.67,
+      "InceptionDate": "2004-07-18T09:51:28 +04:00"
+    },
+    {
+      "FundName": "ENORMO",
+      "Ticker": "ENORMO",
+      "Month1": 3.01,
+      "Month3": -2.47,
+      "Year": 2.41,
+      "Year3": 4.74,
+      "InceptionDate": "2002-03-23T10:08:40 +05:00"
+    },
+    {
+      "FundName": "ICOLOGY",
+      "Ticker": "ICOLOGY",
+      "Month1": -8.68,
+      "Month3": 8.28,
+      "Year": 9.99,
+      "Year3": 1.83,
+      "InceptionDate": "2010-03-14T03:11:51 +04:00"
+    },
+    {
+      "FundName": "VIDTO",
+      "Ticker": "VIDTO",
+      "Month1": 3.69,
+      "Month3": 2.05,
+      "Year": 9.56,
+      "Year3": 7.5,
+      "InceptionDate": "2014-04-21T08:03:03 +04:00"
+    },
+    {
+      "FundName": "GENMOM",
+      "Ticker": "GENMOM",
+      "Month1": 1.35,
+      "Month3": -2,
+      "Year": 2.22,
+      "Year3": 8.42,
+      "InceptionDate": "2016-10-20T04:39:22 +04:00"
+    },
+    {
+      "FundName": "ZILLACTIC",
+      "Ticker": "ZILLACTIC",
+      "Month1": 4.06,
+      "Month3": 8.72,
+      "Year": 2.46,
+      "Year3": 6.9,
+      "InceptionDate": "2014-04-30T04:37:55 +04:00"
+    },
+    {
+      "FundName": "AUSTECH",
+      "Ticker": "AUSTECH",
+      "Month1": 8.64,
+      "Month3": -0.88,
+      "Year": 1.09,
+      "Year3": 5.12,
+      "InceptionDate": "2020-02-28T08:30:24 +05:00"
+    },
+    {
+      "FundName": "GUSHKOOL",
+      "Ticker": "GUSHKOOL",
+      "Month1": -0.92,
+      "Month3": 4.45,
+      "Year": 5.56,
+      "Year3": 9.35,
+      "InceptionDate": "2011-11-14T10:34:34 +05:00"
+    },
+    {
+      "FundName": "IMAGINART",
+      "Ticker": "IMAGINART",
+      "Month1": 5.87,
+      "Month3": 5.86,
+      "Year": 5.82,
+      "Year3": 6.13,
+      "InceptionDate": "2016-01-23T06:50:00 +05:00"
+    },
+    {
+      "FundName": "VURBO",
+      "Ticker": "VURBO",
+      "Month1": 8.5,
+      "Month3": -2.76,
+      "Year": 5.39,
+      "Year3": 4.32,
+      "InceptionDate": "2015-05-17T10:24:01 +04:00"
+    },
+    {
+      "FundName": "ROUGHIES",
+      "Ticker": "ROUGHIES",
+      "Month1": -7.44,
+      "Month3": -0.08,
+      "Year": 1.4,
+      "Year3": 6.19,
+      "InceptionDate": "2001-08-21T06:19:41 +04:00"
+    },
+    {
+      "FundName": "RETRACK",
+      "Ticker": "RETRACK",
+      "Month1": -4.44,
+      "Month3": -3.13,
+      "Year": 9.13,
+      "Year3": 8.87,
+      "InceptionDate": "2007-11-04T07:52:43 +05:00"
+    },
+    {
+      "FundName": "ZILLIDIUM",
+      "Ticker": "ZILLIDIUM",
+      "Month1": 3.15,
+      "Month3": 1.02,
+      "Year": 3.06,
+      "Year3": 1.5,
+      "InceptionDate": "2003-11-21T08:15:11 +05:00"
+    },
+    {
+      "FundName": "SCENTRIC",
+      "Ticker": "SCENTRIC",
+      "Month1": -6.93,
+      "Month3": -1.32,
+      "Year": 5.92,
+      "Year3": 5.54,
+      "InceptionDate": "2010-07-15T06:38:47 +04:00"
+    },
+    {
+      "FundName": "SEQUITUR",
+      "Ticker": "SEQUITUR",
+      "Month1": 6.52,
+      "Month3": -3.05,
+      "Year": 1.8,
+      "Year3": 9.82,
+      "InceptionDate": "2013-12-06T11:06:28 +05:00"
+    },
+    {
+      "FundName": "TASMANIA",
+      "Ticker": "TASMANIA",
+      "Month1": -6.21,
+      "Month3": 6.33,
+      "Year": 5.82,
+      "Year3": 9.29,
+      "InceptionDate": "2003-05-21T07:48:33 +04:00"
+    },
+    {
+      "FundName": "RUBADUB",
+      "Ticker": "RUBADUB",
+      "Month1": 4.65,
+      "Month3": 2.2,
+      "Year": 4.38,
+      "Year3": 3.57,
+      "InceptionDate": "2012-01-08T12:08:56 +05:00"
+    },
+    {
+      "FundName": "ANIXANG",
+      "Ticker": "ANIXANG",
+      "Month1": -7.18,
+      "Month3": -2.9,
+      "Year": 5.63,
+      "Year3": 6.79,
+      "InceptionDate": "2009-03-11T03:51:15 +04:00"
+    },
+    {
+      "FundName": "ISOLOGIX",
+      "Ticker": "ISOLOGIX",
+      "Month1": 7.92,
+      "Month3": -1.53,
+      "Year": 6.6,
+      "Year3": 6.73,
+      "InceptionDate": "2015-08-07T01:22:10 +04:00"
+    },
+    {
+      "FundName": "GEEKOSIS",
+      "Ticker": "GEEKOSIS",
+      "Month1": -1.21,
+      "Month3": 1.43,
+      "Year": 4.5,
+      "Year3": 1.09,
+      "InceptionDate": "2006-05-22T09:34:18 +04:00"
+    },
+    {
+      "FundName": "ZENSURE",
+      "Ticker": "ZENSURE",
+      "Month1": 2.87,
+      "Month3": -0.78,
+      "Year": 6.73,
+      "Year3": 1.55,
+      "InceptionDate": "2001-01-10T12:14:35 +05:00"
+    },
+    {
+      "FundName": "ENJOLA",
+      "Ticker": "ENJOLA",
+      "Month1": 4.76,
+      "Month3": -1.16,
+      "Year": 9.13,
+      "Year3": 2.54,
+      "InceptionDate": "2015-10-02T06:21:37 +04:00"
+    },
+    {
+      "FundName": "SUREMAX",
+      "Ticker": "SUREMAX",
+      "Month1": 3.2,
+      "Month3": 5.45,
+      "Year": 1.76,
+      "Year3": 5.43,
+      "InceptionDate": "2004-11-09T12:14:54 +05:00"
+    },
+    {
+      "FundName": "DOGTOWN",
+      "Ticker": "DOGTOWN",
+      "Month1": -5.32,
+      "Month3": 5.55,
+      "Year": 3.95,
+      "Year3": 1.28,
+      "InceptionDate": "2007-12-11T01:53:08 +05:00"
+    },
+    {
+      "FundName": "VIRVA",
+      "Ticker": "VIRVA",
+      "Month1": 5.44,
+      "Month3": -2.22,
+      "Year": 7.83,
+      "Year3": 3.11,
+      "InceptionDate": "2001-11-01T07:55:20 +05:00"
+    },
+    {
+      "FundName": "CALLFLEX",
+      "Ticker": "CALLFLEX",
+      "Month1": 7.27,
+      "Month3": 3.24,
+      "Year": 3.79,
+      "Year3": 3.45,
+      "InceptionDate": "2016-04-09T11:58:30 +04:00"
+    },
+    {
+      "FundName": "ZILIDIUM",
+      "Ticker": "ZILIDIUM",
+      "Month1": 3.88,
+      "Month3": 0.65,
+      "Year": 2.84,
+      "Year3": 4.47,
+      "InceptionDate": "2012-03-03T04:59:13 +05:00"
+    },
+    {
+      "FundName": "NETROPIC",
+      "Ticker": "NETROPIC",
+      "Month1": -2.68,
+      "Month3": -2.87,
+      "Year": 3.92,
+      "Year3": 9.44,
+      "InceptionDate": "2020-03-10T06:41:37 +04:00"
+    },
+    {
+      "FundName": "EQUITOX",
+      "Ticker": "EQUITOX",
+      "Month1": -1.43,
+      "Month3": 9.93,
+      "Year": 4.59,
+      "Year3": 8.05,
+      "InceptionDate": "2017-06-03T05:33:58 +04:00"
+    },
+    {
+      "FundName": "BOINK",
+      "Ticker": "BOINK",
+      "Month1": 1.29,
+      "Month3": 2.27,
+      "Year": 6.75,
+      "Year3": 3.14,
+      "InceptionDate": "2000-03-20T02:45:23 +05:00"
+    },
+    {
+      "FundName": "NIPAZ",
+      "Ticker": "NIPAZ",
+      "Month1": 8.61,
+      "Month3": -2.79,
+      "Year": 4.63,
+      "Year3": 8.74,
+      "InceptionDate": "2011-01-01T11:54:41 +05:00"
+    },
+    {
+      "FundName": "TALKOLA",
+      "Ticker": "TALKOLA",
+      "Month1": 8.09,
+      "Month3": -2.77,
+      "Year": 6.06,
+      "Year3": 3.48,
+      "InceptionDate": "2013-07-11T07:59:38 +04:00"
+    },
+    {
+      "FundName": "KIOSK",
+      "Ticker": "KIOSK",
+      "Month1": 0.08,
+      "Month3": 8.42,
+      "Year": 2.23,
+      "Year3": 6.92,
+      "InceptionDate": "2019-12-08T09:49:43 +05:00"
+    },
+    {
+      "FundName": "FUELTON",
+      "Ticker": "FUELTON",
+      "Month1": 7.99,
+      "Month3": -2.72,
+      "Year": 6.68,
+      "Year3": 7.93,
+      "InceptionDate": "2000-02-13T03:06:35 +05:00"
+    },
+    {
+      "FundName": "RENOVIZE",
+      "Ticker": "RENOVIZE",
+      "Month1": 7.45,
+      "Month3": 1.1,
+      "Year": 8.01,
+      "Year3": 1.72,
+      "InceptionDate": "2018-05-13T02:50:58 +04:00"
+    },
+    {
+      "FundName": "TECHMANIA",
+      "Ticker": "TECHMANIA",
+      "Month1": 0.57,
+      "Month3": 4.93,
+      "Year": 3.65,
+      "Year3": 2.67,
+      "InceptionDate": "2008-10-24T07:37:00 +04:00"
+    },
+    {
+      "FundName": "MANTRIX",
+      "Ticker": "MANTRIX",
+      "Month1": -7.24,
+      "Month3": 9.12,
+      "Year": 7.19,
+      "Year3": 7.23,
+      "InceptionDate": "2008-04-20T07:35:51 +04:00"
+    },
+    {
+      "FundName": "BESTO",
+      "Ticker": "BESTO",
+      "Month1": 9.28,
+      "Month3": 4.85,
+      "Year": 8.22,
+      "Year3": 9.37,
+      "InceptionDate": "2017-07-09T12:37:17 +04:00"
+    },
+    {
+      "FundName": "MITROC",
+      "Ticker": "MITROC",
+      "Month1": -6.81,
+      "Month3": 9.04,
+      "Year": 3.52,
+      "Year3": 8.54,
+      "InceptionDate": "2013-05-10T08:11:46 +04:00"
+    },
+    {
+      "FundName": "EYEWAX",
+      "Ticker": "EYEWAX",
+      "Month1": -8.03,
+      "Month3": -3.92,
+      "Year": 7.2,
+      "Year3": 4.78,
+      "InceptionDate": "2018-07-06T01:17:57 +04:00"
+    },
+    {
+      "FundName": "FIREWAX",
+      "Ticker": "FIREWAX",
+      "Month1": 1.72,
+      "Month3": -1.49,
+      "Year": 8.2,
+      "Year3": 6.6,
+      "InceptionDate": "2015-04-14T05:06:49 +04:00"
+    },
+    {
+      "FundName": "NIMON",
+      "Ticker": "NIMON",
+      "Month1": -2.37,
+      "Month3": 1.3,
+      "Year": 9.41,
+      "Year3": 4.33,
+      "InceptionDate": "2003-09-15T01:26:23 +04:00"
+    },
+    {
+      "FundName": "EBIDCO",
+      "Ticker": "EBIDCO",
+      "Month1": 2.41,
+      "Month3": 0.8,
+      "Year": 7.26,
+      "Year3": 3.24,
+      "InceptionDate": "2017-11-30T12:54:57 +05:00"
+    },
+    {
+      "FundName": "SHOPABOUT",
+      "Ticker": "SHOPABOUT",
+      "Month1": -7.77,
+      "Month3": 6.66,
+      "Year": 5.12,
+      "Year3": 4.98,
+      "InceptionDate": "2018-10-19T12:10:19 +04:00"
+    },
+    {
+      "FundName": "ISOPOP",
+      "Ticker": "ISOPOP",
+      "Month1": 2.57,
+      "Month3": -1.03,
+      "Year": 8.79,
+      "Year3": 3.26,
+      "InceptionDate": "2011-02-23T01:07:06 +05:00"
+    },
+    {
+      "FundName": "BLURRYBUS",
+      "Ticker": "BLURRYBUS",
+      "Month1": 4.03,
+      "Month3": 8.33,
+      "Year": 9.02,
+      "Year3": 4.31,
+      "InceptionDate": "2005-04-16T12:11:12 +04:00"
+    },
+    {
+      "FundName": "IDETICA",
+      "Ticker": "IDETICA",
+      "Month1": -6.72,
+      "Month3": 0.81,
+      "Year": 6.57,
+      "Year3": 5.36,
+      "InceptionDate": "2013-03-01T02:51:55 +05:00"
+    },
+    {
+      "FundName": "PYRAMIA",
+      "Ticker": "PYRAMIA",
+      "Month1": 1.24,
+      "Month3": 3.88,
+      "Year": 8.63,
+      "Year3": 7.36,
+      "InceptionDate": "2019-02-05T04:13:08 +05:00"
+    },
+    {
+      "FundName": "BEDDER",
+      "Ticker": "BEDDER",
+      "Month1": -0.15,
+      "Month3": 9.96,
+      "Year": 7.3,
+      "Year3": 1.33,
+      "InceptionDate": "2011-08-15T03:47:52 +04:00"
+    },
+    {
+      "FundName": "EVEREST",
+      "Ticker": "EVEREST",
+      "Month1": -0.23,
+      "Month3": 1.64,
+      "Year": 5.13,
+      "Year3": 3.16,
+      "InceptionDate": "2010-09-29T02:14:52 +04:00"
+    },
+    {
+      "FundName": "ENDIPINE",
+      "Ticker": "ENDIPINE",
+      "Month1": 1.32,
+      "Month3": 0.75,
+      "Year": 9.69,
+      "Year3": 6.54,
+      "InceptionDate": "2005-07-30T01:52:36 +04:00"
+    },
+    {
+      "FundName": "DREAMIA",
+      "Ticker": "DREAMIA",
+      "Month1": 1.78,
+      "Month3": -4.81,
+      "Year": 8.21,
+      "Year3": 4.42,
+      "InceptionDate": "2010-09-02T04:11:47 +04:00"
+    },
+    {
+      "FundName": "APPLICA",
+      "Ticker": "APPLICA",
+      "Month1": 5.98,
+      "Month3": 9.23,
+      "Year": 6.76,
+      "Year3": 3.36,
+      "InceptionDate": "2006-12-22T02:12:08 +05:00"
+    },
+    {
+      "FundName": "CUBICIDE",
+      "Ticker": "CUBICIDE",
+      "Month1": -1.5,
+      "Month3": 5.43,
+      "Year": 9.44,
+      "Year3": 7.68,
+      "InceptionDate": "2000-05-06T02:15:26 +04:00"
+    },
+    {
+      "FundName": "TRIBALOG",
+      "Ticker": "TRIBALOG",
+      "Month1": -0.86,
+      "Month3": 9.63,
+      "Year": 7.68,
+      "Year3": 8.64,
+      "InceptionDate": "2012-08-16T03:04:02 +04:00"
+    },
+    {
+      "FundName": "BITENDREX",
+      "Ticker": "BITENDREX",
+      "Month1": 6.85,
+      "Month3": -1.28,
+      "Year": 1.77,
+      "Year3": 9.16,
+      "InceptionDate": "2017-04-22T05:49:34 +04:00"
+    },
+    {
+      "FundName": "HAWKSTER",
+      "Ticker": "HAWKSTER",
+      "Month1": 3.49,
+      "Month3": 3.69,
+      "Year": 3.41,
+      "Year3": 7.52,
+      "InceptionDate": "2014-06-05T08:53:39 +04:00"
+    },
+    {
+      "FundName": "FARMEX",
+      "Ticker": "FARMEX",
+      "Month1": 8.91,
+      "Month3": 5.28,
+      "Year": 2.08,
+      "Year3": 5.61,
+      "InceptionDate": "2014-10-09T02:16:22 +04:00"
+    },
+    {
+      "FundName": "CYCLONICA",
+      "Ticker": "CYCLONICA",
+      "Month1": -8.14,
+      "Month3": 2.95,
+      "Year": 1.8,
+      "Year3": 6.62,
+      "InceptionDate": "2019-07-09T03:24:19 +04:00"
+    },
+    {
+      "FundName": "ORBIFLEX",
+      "Ticker": "ORBIFLEX",
+      "Month1": 9.24,
+      "Month3": 7.86,
+      "Year": 7.31,
+      "Year3": 9.11,
+      "InceptionDate": "2014-12-13T03:04:56 +05:00"
+    },
+    {
+      "FundName": "IMAGEFLOW",
+      "Ticker": "IMAGEFLOW",
+      "Month1": 7.33,
+      "Month3": 1.39,
+      "Year": 6.86,
+      "Year3": 6.9,
+      "InceptionDate": "2001-10-05T05:38:37 +04:00"
+    },
+    {
+      "FundName": "NURALI",
+      "Ticker": "NURALI",
+      "Month1": -0.98,
+      "Month3": -2.03,
+      "Year": 1.11,
+      "Year3": 9.89,
+      "InceptionDate": "2008-10-06T05:33:45 +04:00"
+    },
+    {
+      "FundName": "VELOS",
+      "Ticker": "VELOS",
+      "Month1": -7.98,
+      "Month3": 6.12,
+      "Year": 3.27,
+      "Year3": 9.1,
+      "InceptionDate": "2014-03-29T07:58:07 +04:00"
+    },
+    {
+      "FundName": "BISBA",
+      "Ticker": "BISBA",
+      "Month1": 5.29,
+      "Month3": 2.27,
+      "Year": 8.65,
+      "Year3": 6.56,
+      "InceptionDate": "2011-11-11T07:08:18 +05:00"
+    },
+    {
+      "FundName": "PROFLEX",
+      "Ticker": "PROFLEX",
+      "Month1": 2.85,
+      "Month3": 8.77,
+      "Year": 5.21,
+      "Year3": 6.03,
+      "InceptionDate": "2004-05-16T08:11:20 +04:00"
+    },
+    {
+      "FundName": "DAISU",
+      "Ticker": "DAISU",
+      "Month1": -1.59,
+      "Month3": -3.32,
+      "Year": 2.19,
+      "Year3": 3.57,
+      "InceptionDate": "2000-12-23T01:11:39 +05:00"
+    },
+    {
+      "FundName": "SAVVY",
+      "Ticker": "SAVVY",
+      "Month1": -8.38,
+      "Month3": 9.07,
+      "Year": 8.52,
+      "Year3": 7.66,
+      "InceptionDate": "2019-01-22T01:17:36 +05:00"
+    },
+    {
+      "FundName": "CHORIZON",
+      "Ticker": "CHORIZON",
+      "Month1": -3.05,
+      "Month3": -2.71,
+      "Year": 2.9,
+      "Year3": 3.06,
+      "InceptionDate": "2005-10-16T03:23:25 +04:00"
+    },
+    {
+      "FundName": "PROGENEX",
+      "Ticker": "PROGENEX",
+      "Month1": -6.92,
+      "Month3": 6.67,
+      "Year": 2.42,
+      "Year3": 3.4,
+      "InceptionDate": "2008-09-29T07:18:51 +04:00"
+    },
+    {
+      "FundName": "SNOWPOKE",
+      "Ticker": "SNOWPOKE",
+      "Month1": -1.17,
+      "Month3": -4.57,
+      "Year": 7.09,
+      "Year3": 6.96,
+      "InceptionDate": "2010-07-17T03:31:02 +04:00"
+    },
+    {
+      "FundName": "GEOFORMA",
+      "Ticker": "GEOFORMA",
+      "Month1": 7.52,
+      "Month3": 6.69,
+      "Year": 1.97,
+      "Year3": 8.93,
+      "InceptionDate": "2018-05-04T07:50:09 +04:00"
+    },
+    {
+      "FundName": "INEAR",
+      "Ticker": "INEAR",
+      "Month1": 4,
+      "Month3": 3,
+      "Year": 5.88,
+      "Year3": 1.46,
+      "InceptionDate": "2014-08-04T01:03:51 +04:00"
+    },
+    {
+      "FundName": "GENMY",
+      "Ticker": "GENMY",
+      "Month1": -8.28,
+      "Month3": 5.62,
+      "Year": 7.35,
+      "Year3": 9.78,
+      "InceptionDate": "2005-06-01T09:49:53 +04:00"
+    },
+    {
+      "FundName": "EXOSPEED",
+      "Ticker": "EXOSPEED",
+      "Month1": 3.79,
+      "Month3": 4.43,
+      "Year": 9.06,
+      "Year3": 2.34,
+      "InceptionDate": "2018-08-14T02:59:31 +04:00"
+    },
+    {
+      "FundName": "XOGGLE",
+      "Ticker": "XOGGLE",
+      "Month1": 3.41,
+      "Month3": 6.55,
+      "Year": 1.69,
+      "Year3": 3.13,
+      "InceptionDate": "2018-09-06T09:02:48 +04:00"
+    },
+    {
+      "FundName": "KONGLE",
+      "Ticker": "KONGLE",
+      "Month1": -2.59,
+      "Month3": 5.18,
+      "Year": 6.7,
+      "Year3": 2.44,
+      "InceptionDate": "2015-09-25T04:23:43 +04:00"
+    },
+    {
+      "FundName": "JAMNATION",
+      "Ticker": "JAMNATION",
+      "Month1": 6.78,
+      "Month3": 9.7,
+      "Year": 3.93,
+      "Year3": 6.52,
+      "InceptionDate": "2008-05-25T03:39:36 +04:00"
+    },
+    {
+      "FundName": "OTHERSIDE",
+      "Ticker": "OTHERSIDE",
+      "Month1": -3.92,
+      "Month3": -1.44,
+      "Year": 9.38,
+      "Year3": 3.25,
+      "InceptionDate": "2019-01-25T08:26:03 +05:00"
+    },
+    {
+      "FundName": "GOGOL",
+      "Ticker": "GOGOL",
+      "Month1": 5.34,
+      "Month3": 6.94,
+      "Year": 4.13,
+      "Year3": 6.47,
+      "InceptionDate": "2000-09-29T12:29:27 +04:00"
+    },
+    {
+      "FundName": "RECRITUBE",
+      "Ticker": "RECRITUBE",
+      "Month1": 0.73,
+      "Month3": 1.7,
+      "Year": 9.51,
+      "Year3": 1.72,
+      "InceptionDate": "2012-10-04T05:25:43 +04:00"
+    },
+    {
+      "FundName": "VITRICOMP",
+      "Ticker": "VITRICOMP",
+      "Month1": -8.84,
+      "Month3": 1.08,
+      "Year": 2,
+      "Year3": 7.91,
+      "InceptionDate": "2002-05-20T03:11:43 +04:00"
+    },
+    {
+      "FundName": "OVERPLEX",
+      "Ticker": "OVERPLEX",
+      "Month1": 7.05,
+      "Month3": -0.99,
+      "Year": 1.53,
+      "Year3": 6.75,
+      "InceptionDate": "2015-10-11T04:57:06 +04:00"
+    },
+    {
+      "FundName": "JIMBIES",
+      "Ticker": "JIMBIES",
+      "Month1": -8.75,
+      "Month3": 9.06,
+      "Year": 2.08,
+      "Year3": 6.33,
+      "InceptionDate": "2004-02-12T07:41:27 +05:00"
+    },
+    {
+      "FundName": "REMOLD",
+      "Ticker": "REMOLD",
+      "Month1": -5.24,
+      "Month3": -3.67,
+      "Year": 4.98,
+      "Year3": 4.44,
+      "InceptionDate": "2001-07-08T06:47:52 +04:00"
+    },
+    {
+      "FundName": "NEOCENT",
+      "Ticker": "NEOCENT",
+      "Month1": -4.82,
+      "Month3": -4.73,
+      "Year": 5.57,
+      "Year3": 6.85,
+      "InceptionDate": "2015-02-13T10:25:23 +05:00"
+    },
+    {
+      "FundName": "IZZBY",
+      "Ticker": "IZZBY",
+      "Month1": 0.44,
+      "Month3": -3.85,
+      "Year": 8.67,
+      "Year3": 8.7,
+      "InceptionDate": "2013-04-19T06:18:36 +04:00"
+    },
+    {
+      "FundName": "HOPELI",
+      "Ticker": "HOPELI",
+      "Month1": 4.67,
+      "Month3": -4.62,
+      "Year": 3.54,
+      "Year3": 6.66,
+      "InceptionDate": "2010-12-19T09:48:43 +05:00"
+    },
+    {
+      "FundName": "SPRINGBEE",
+      "Ticker": "SPRINGBEE",
+      "Month1": 1.14,
+      "Month3": 2.89,
+      "Year": 5.66,
+      "Year3": 9.15,
+      "InceptionDate": "2006-06-01T11:09:21 +04:00"
+    },
+    {
+      "FundName": "MEMORA",
+      "Ticker": "MEMORA",
+      "Month1": 6.55,
+      "Month3": 0.47,
+      "Year": 6.13,
+      "Year3": 5.43,
+      "InceptionDate": "2012-05-09T03:03:30 +04:00"
+    },
+    {
+      "FundName": "GOLOGY",
+      "Ticker": "GOLOGY",
+      "Month1": 9.37,
+      "Month3": 8.09,
+      "Year": 7.22,
+      "Year3": 6.07,
+      "InceptionDate": "2019-08-27T04:52:42 +04:00"
+    },
+    {
+      "FundName": "GRAINSPOT",
+      "Ticker": "GRAINSPOT",
+      "Month1": 5.5,
+      "Month3": -3.76,
+      "Year": 9.94,
+      "Year3": 6.09,
+      "InceptionDate": "2010-04-18T12:09:05 +04:00"
+    },
+    {
+      "FundName": "MIXERS",
+      "Ticker": "MIXERS",
+      "Month1": 3.89,
+      "Month3": 6.58,
+      "Year": 2.64,
+      "Year3": 8.64,
+      "InceptionDate": "2015-04-15T01:07:45 +04:00"
+    },
+    {
+      "FundName": "BITREX",
+      "Ticker": "BITREX",
+      "Month1": 8.6,
+      "Month3": 3.79,
+      "Year": 3.78,
+      "Year3": 5.86,
+      "InceptionDate": "2001-10-01T06:41:31 +04:00"
+    },
+    {
+      "FundName": "SONIQUE",
+      "Ticker": "SONIQUE",
+      "Month1": -0.13,
+      "Month3": 6.79,
+      "Year": 1.11,
+      "Year3": 5.54,
+      "InceptionDate": "2017-02-10T01:37:09 +05:00"
+    },
+    {
+      "FundName": "PATHWAYS",
+      "Ticker": "PATHWAYS",
+      "Month1": 0.2,
+      "Month3": 9.1,
+      "Year": 9.85,
+      "Year3": 2.76,
+      "InceptionDate": "2001-09-08T11:07:12 +04:00"
+    },
+    {
+      "FundName": "EARTHPURE",
+      "Ticker": "EARTHPURE",
+      "Month1": -9.17,
+      "Month3": 8.81,
+      "Year": 7.78,
+      "Year3": 7.53,
+      "InceptionDate": "2009-04-01T12:10:28 +04:00"
+    },
+    {
+      "FundName": "HANDSHAKE",
+      "Ticker": "HANDSHAKE",
+      "Month1": 1.14,
+      "Month3": 2.61,
+      "Year": 6.25,
+      "Year3": 4.88,
+      "InceptionDate": "2006-11-22T10:11:01 +05:00"
+    },
+    {
+      "FundName": "VIRXO",
+      "Ticker": "VIRXO",
+      "Month1": 6.15,
+      "Month3": 4.97,
+      "Year": 5,
+      "Year3": 4.37,
+      "InceptionDate": "2017-08-23T11:36:08 +04:00"
+    },
+    {
+      "FundName": "TERRAGEN",
+      "Ticker": "TERRAGEN",
+      "Month1": -7.4,
+      "Month3": 3.17,
+      "Year": 2.28,
+      "Year3": 4.4,
+      "InceptionDate": "2016-03-14T07:37:54 +04:00"
+    },
+    {
+      "FundName": "COSMETEX",
+      "Ticker": "COSMETEX",
+      "Month1": 4.49,
+      "Month3": 3.96,
+      "Year": 9.2,
+      "Year3": 1.78,
+      "InceptionDate": "2000-06-03T02:48:45 +04:00"
+    },
+    {
+      "FundName": "ZILLATIDE",
+      "Ticker": "ZILLATIDE",
+      "Month1": -5.14,
+      "Month3": 9.66,
+      "Year": 2.87,
+      "Year3": 4.49,
+      "InceptionDate": "2014-03-15T12:16:08 +04:00"
+    },
+    {
+      "FundName": "MOMENTIA",
+      "Ticker": "MOMENTIA",
+      "Month1": 3.38,
+      "Month3": 2.74,
+      "Year": 2.62,
+      "Year3": 4.67,
+      "InceptionDate": "2014-10-18T01:53:55 +04:00"
+    }
+  ]
